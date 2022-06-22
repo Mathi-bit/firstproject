@@ -4,7 +4,7 @@ public class LearnThisAndInstance {
 
  void addTwoNumber(int a,int b) { 
 	// int c; //local variable
-	 System.out.println(a+b+c);
+	 System.out.println(a+c);
 	 
  }
  public static void main(String[] args) {
